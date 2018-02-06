@@ -3,6 +3,7 @@
 If you need to report a problem with one of the Joomla! websites owned by the project, for example: joomla.org, please use one of the following links to create an issue. You will need a GitHub account to report an issue. If you don't have one you can **[create](https://github.com/join)** one.
 
 To help the webmasters, please:
+Adding details about joomla
 
 1. **DO NOT report security issues here, report them to the [Joomla! Security Strike Team](https://developer.joomla.org/contact-security-team.html)**
 2. Use a descriptive title
